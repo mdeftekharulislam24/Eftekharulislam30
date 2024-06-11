@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning machine learning and artificial intelligence.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 📫 How to reach me: You can email me at eftekharulislam28@gmail.com or
-- connect with me on [LinkedIn](https://linkedin.com/in/eftekharulislam30).
+- connect with me on [LinkedIn](https://linkedin.com/in/mdeftekharulislam).
 - 😄 Pronouns: He/Him.
 - ⚡ 🌐 Visit my personal website ([Github](https://github.com/Eftekharulislam30)) to learn more about my work and projects.
 - 🚀 Let's code, learn, and build together to make a difference in the tech world!
