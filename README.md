@@ -27,6 +27,7 @@ Here are a few projects I've worked on:
 
 ## Learning Journey
 I'm continuously learning and growing my skills. Here are some of the courses and certifications I've completed:
+- Certification : CCNA: Introduction to Networks-https://www.credly.com/badges/aaccc3e9-6094-48c2-8abe-55d4aa86268c/public_url
 - Certification : https://www.coursera.org/user/34be08a6481021a6d97a4ed29d2c9e32
 - Credly: https://www.credly.com/users/mdeftekharulislam/badges
 - Certification : NDG Linux Unhatched course in the Cisco Networking Academy, CPA: Programming Essentials in C++ etc.
