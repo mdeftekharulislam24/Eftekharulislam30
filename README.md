@@ -1,13 +1,14 @@
 # Hi there, I'm MD. Eftekharul Islam 👋
 
 ## About Me
-- 👀 I’m interested in technology, programming, and data science.
-- 🌱 I’m currently learning machine learning and artificial intelligence.
+- 👀 I’m interested in Information technology, programming, and data science.
+- 🌱 I’m currently learning CCNA and Cisco Network Security, machine learning and artificial intelligence.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 📫 How to reach me: You can email me at eftekharulislam28@gmail.com or
 - connect with me on [LinkedIn](https://linkedin.com/in/mdeftekharulislam).
 - 😄 Pronouns: He/Him.
 - ⚡ 🌐 Visit my personal website ([Github](https://github.com/Eftekharulislam30)) to learn more about my work and projects.
+- I.C.E. Accredited Program: https://www.credly.com/badges/3a4b5f8a-916f-40be-98a6-8b76ec8753e0
 - 🚀 Let's code, learn, and build together to make a difference in the tech world!
 
 ## Get in Touch
