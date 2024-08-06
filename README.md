@@ -8,7 +8,6 @@
 - connect with me on [LinkedIn](https://linkedin.com/in/mdeftekharulislam).
 - 😄 Pronouns: He/Him.
 - ⚡ 🌐 Visit my personal website ([Github](https://github.com/Eftekharulislam30)) to learn more about my work and projects.
-- I.C.E. Accredited Program: https://www.credly.com/badges/3a4b5f8a-916f-40be-98a6-8b76ec8753e0
 - 🚀 Let's code, learn, and build together to make a difference in the tech world!
 
 ## Get in Touch
