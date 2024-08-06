@@ -1,4 +1,4 @@
-# Hi there, I'm Eftekharulislam30 👋
+# Hi there, I'm MD. Eftekharul Islam 👋
 
 ## About Me
 - 👀 I’m interested in technology, programming, and data science.
