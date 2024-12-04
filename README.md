@@ -17,7 +17,7 @@ Feel free to reach out to me for collaborations, project discussions, or just a 
 - **Programming Languages:** Python, JavaScript, C++.
 - **Technologies:** Machine Learning, Artificial Intelligence, Data Science, Web Development.
 - **Tools:** TensorFlow, PyTorch, Scikit-learn, React, Node.js.
-- **Hobbies:** Gaming, Travelling, Reading.
+- **Hobbies:**Reading.
 
 ## Projects
 Here are a few projects I've worked on:
